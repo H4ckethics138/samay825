@@ -19,7 +19,7 @@
 </div>
 
 <div align="center" style="margin: 20px;">
-    <img src="https://via.placeholder.com/800x5/00FF00/00FF00?text=+" alt="Divider Line" width="80%" />
+    
 </div>
 
 ---
