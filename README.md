@@ -1,9 +1,9 @@
 ---
 
-<h1 align="center">☠️ ZORK | POWERFUL CODER ☠️</h1>
+<h1 align="center">☠️ Vicky | POWDER full H4ck3R☠️</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Zork+Automation+Specialist;Team+Sincryption;Advanced+OSINT+Researcher;Zork+KING+TSN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=VickY+Automation+Specialist;Team+Hackethics138;Advanced+OSINT+Researcher;VickY+KING+TSN" alt="Typing SVG" />
 </p>
 
 <div align="center">
